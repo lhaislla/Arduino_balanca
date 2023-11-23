@@ -10,6 +10,6 @@ Projeto  de armazenamento do peso da balança, ao clicar no botão.
 
 
 
-##Plataforma de simulação: 
+## Plataforma de simulação: 
 - https://wokwi.com/
 ---
