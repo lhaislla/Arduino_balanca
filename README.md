@@ -1,4 +1,4 @@
-# Arduino_balanca
+# Arduino Balança
 Projeto  de armazenamento do peso da balança, ao clicar no botão. 
 
 ## Fluxo da Solução:
