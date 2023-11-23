@@ -6,5 +6,9 @@ Projeto  de armazenamento do peso da balança, ao clicar no botão.
 
 
 ## Simulador do projeto: 
--- https://wokwi.com/
 ![Arduino Mega 2560](./Arduino_mega.PNG)
+
+
+
+-- https://wokwi.com/
+---
